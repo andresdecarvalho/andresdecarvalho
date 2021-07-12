@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/github/followers/andresdecarvalho?style=social)
 
-[![Linkedin Badge](https://img.shields.io/badge/-AndreCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrescarvalho93/)](https://www.linkedin.com/in/andrescarvalho93/)
+[![Linkedin Badge](https://img.shields.io/badge/-André Carvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrescarvalho93/)](https://www.linkedin.com/in/andrescarvalho93/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=andresdecarvalho.andresdecarvalho)
 
