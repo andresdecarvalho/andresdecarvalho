@@ -53,7 +53,7 @@
 **My Contributions ⚡**
 
 <br/>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andresdecarvalho&show_icons=true&count_private=true&theme=dark" width="550"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andresdecarvalho&show_icons=true&count_private=true&theme=dark" width="450"></a>
 <br/>
 
 </samp>
