@@ -48,11 +48,11 @@
 <code><img height="20" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></code>
 
-<br/>
 
 ---
 
 **My Contributions ⚡**
+<br/>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andresdecarvalho&show_icons=true&count_private=true&theme=dark" width="450"></a>
 <br/>
 
