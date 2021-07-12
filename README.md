@@ -6,10 +6,11 @@
 
 💻 Developer  <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> São Paulo 🌎 Brasil
 
-https://img.shields.io/github/followers/andresdecarvalho?style=social
-https://img.shields.io/badge/-AndreCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrescarvalho93/)](https://www.linkedin.com/in/andrescarvalho93/)
+![](https://img.shields.io/github/followers/andresdecarvalho?style=social)
+
 [![Linkedin Badge](https://img.shields.io/badge/-AndreCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrescarvalho93/)](https://www.linkedin.com/in/andrescarvalho93/)
-https://visitor-badge.glitch.me/badge?page_id=andresdecarvalho.andresdecarvalho
+
+![](https://visitor-badge.glitch.me/badge?page_id=andresdecarvalho.andresdecarvalho)
 
 ---
 
