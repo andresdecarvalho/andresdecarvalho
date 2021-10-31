@@ -69,7 +69,7 @@
 **My Contributions ⚡**
 <br/><br/>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andresdecarvalho&show_icons=true&count_private=true&theme=dark" width="400"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresdecarvalho&layot=compact&langs=count7&theme=dark" height="150"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresdecarvalho&layot=compact&langs=count7&theme=dark" height="170"></a>
 <br/>
 
 </samp>
