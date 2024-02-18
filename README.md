@@ -1,6 +1,6 @@
 ### Hi I'm André Carvalho
 
-💻 Developer  <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="14"/> São Paulo 🌎 Brasil
+💻 Developer || São Paulo, Brasil
 
 ![](https://img.shields.io/github/followers/andresdecarvalho?style=social)
 [![Linkedin Badge](https://img.shields.io/badge/-André_Carvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrescarvalho93/)](https://www.linkedin.com/in/andrescarvalho93/)
