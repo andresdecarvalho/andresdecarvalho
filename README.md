@@ -66,6 +66,12 @@
 <code><img height="18" src="https://img.shields.io/badge/Miro-F2C811?style=for-the-badge&logo=miro&logoColor=white"></code>
 <code><img height="18" src="https://img.shields.io/badge/Jira-3880FF?style=for-the-badge&logo=jira&logoColor=white"></code>
 
+  - [👨‍💻 IA]
+<code><img height="18" src="https://img.shields.io/badge/Chat-GPT-D83B01?style=for-the-badge&logo=chat-gpt&logoColor=white"></code>
+<code><img height="18" src="https://img.shields.io/badge/Claude-D83B01?style=for-the-badge&logo=claude&logoColor=white"></code>
+<code><img height="18" src="https://img.shields.io/badge/Gemini-D83B01?style=for-the-badge&logo=gemini&logoColor=white"></code>
+<code><img height="18" src="https://img.shields.io/badge/Copilot-D83B01?style=for-the-badge&logo=copilot&logoColor=white"></code>
+
 ---
 
 **My Contributions ⚡**
