@@ -25,7 +25,8 @@
 <code><img height="18" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></code>   
    
   - [📱 Mobile Frameworks]
-<code><img height="18" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"></code>   
+<code><img height="18" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"></code>
+<code><img height="18" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=react&logoColor=white"></code>    
    
   - [🚀 Frameworks]
 <code><img height="18" src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white"></code>
