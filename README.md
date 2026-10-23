@@ -62,7 +62,9 @@
   
   - [👨‍💻 Office]
 <code><img height="18" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></code>
-<code><img height="18" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></code>   
+<code><img height="18" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></code>
+<code><img height="18" src="https://img.shields.io/badge/Miro-F2C811?style=for-the-badge&logo=miro&logoColor=white"></code>
+<code><img height="18" src="https://img.shields.io/badge/Jira-3880FF?style=for-the-badge&logo=jira&logoColor=white"></code>
 
 ---
 
