@@ -67,10 +67,10 @@
 <code><img height="18" src="https://img.shields.io/badge/Jira-3880FF?style=for-the-badge&logo=jira&logoColor=white"></code>
 
   - [👨‍💻 IA]
-<code><img height="18" src="https://img.shields.io/badge/Chat_GPT-D83B01?style=for-the-badge&logo=gpt&logoColor=white"></code>
-<code><img height="18" src="https://img.shields.io/badge/Claude-D83B01?style=for-the-badge&logo=claude&logoColor=white"></code>
+<code><img height="18" src="https://img.shields.io/badge/Chatgpt-D83B01?style=for-the-badge&logo=chatgpt&logoColor=white"></code>
+<code><img height="18" src="https://img.shields.io/badge/Claude-A81D33?style=for-the-badge&logo=claude&logoColor=white"></code>
 <code><img height="18" src="https://img.shields.io/badge/Google_Gemini-D83B01?style=for-the-badge&logo=google-gemini&logoColor=white"></code>
-<code><img height="18" src="https://img.shields.io/badge/Microsoft_Copilot-D83B01?style=for-the-badge&logo=microsoft-copilot&logoColor=white"></code>
+<code><img height="18" src="https://img.shields.io/badge/Copilot-0078D6?style=for-the-badge&logo=copilot&logoColor=white"></code>
 
 ---
 
