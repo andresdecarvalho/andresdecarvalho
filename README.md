@@ -49,7 +49,8 @@
 <code><img height="18" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"></code>
 <code><img height="18" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></code>
 <code><img height="18" src="https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white"></code>
-<code><img height="18" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></code>   
+<code><img height="18" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></code>
+<code><img height="18" src="https://img.shields.io/badge/IOS-b2bbc1?style=for-the-badge&logo=ios&logoColor=white"></code>
    
   - [👩‍💻 IDE]
 <code><img height="18" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
